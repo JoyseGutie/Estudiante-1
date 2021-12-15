@@ -1,1 +1,2 @@
-Hola, mi nombre es Johana Gutiérrez, estudiante 1. Esto es un texto de prueba y junto a mi compañera realizamos el Módulo 3, Desafío 2.
+﻿Hola, mi nombre es Johana Gutiérrez, estudiante 1. Esto es un texto de prueba y junto a mi compañera realizamos el Módulo 3, Desafío 2.
+hola mi nombre es veronica rauld barbetti, estudiante 2. esto es un texto de prueba junto con mi compañera hicimos el Módulo 3, Desafio 2. 
